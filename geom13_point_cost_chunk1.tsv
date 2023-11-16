@@ -1,0 +1,3 @@
+colour	fill	x	y	showSelectedlegendcolour	showSelectedlegendfill
+#66C2A5	#FFFFFF	-1	1.04098993383087	train	min loss
+#FC8D62	#FFFFFF	-1	1.26307863288885	validation	min loss
